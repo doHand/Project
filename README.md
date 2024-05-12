@@ -18,3 +18,5 @@
 -	Framework : Spring Framework
 -	Server : Apache Tomcat 9
 -	기타 사용 기술 : RestAPI , Chart.js
+-	협업 툴 : Git
+-  배포 : AWS, Linux, Docker
