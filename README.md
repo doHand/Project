@@ -11,6 +11,7 @@
 * 프로젝트 목적 : 지역 별 응급실 혼잡도를 예측하여 응급실 과밀화 예방을 위한 정보를 제공함
 * 인력 구성 : 3명
 * [관련 문서 보기](https://github.com/doHand/Project/tree/main/Documentation)
+* [프로젝트 결과 보기](http://43.203.78.27:8080/)
 <br>
 
 ## 개발환경
